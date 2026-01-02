@@ -1,0 +1,1 @@
+“Design and configure an enterprise-level AWS IAM setup where multiple users have different access levels using groups, roles, customer-managed policies, permission boundaries, trust relationships, and explicit deny rules, ensuring least-privilege access and preventing privilege escalation. No other AWS services should be used.”

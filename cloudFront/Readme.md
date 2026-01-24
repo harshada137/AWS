@@ -68,5 +68,4 @@ Focus on **caching strategies, security, performance, and integration with other
 ---
 
 Happy Learning ☁️⚡
-```
 
